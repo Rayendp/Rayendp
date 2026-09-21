@@ -1,13 +1,15 @@
-# ⚡ RAYENDP
+<p align="center">
+  <img src="./Rayen-banner.png%202.png" alt="Rayendp Banner" width="100%">
+</p>
 
-```text
+<pre>
 ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗
 ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝████╗  ██║
 ██████╔╝███████║ ╚████╔╝ █████╗  ██╔██╗ ██║
 ██╔══██╗██╔══██║  ╚██╔╝  ██╔══╝  ██║╚██╗██║
 ██║  ██║██║  ██║   ██║   ███████╗██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝
-```
+</pre>
 
 ### `⚡ DEVELOPER // CHAPTER 01`
 
@@ -53,18 +55,17 @@ I'm currently expanding my skills in **TypeScript, React, and the modern React e
 ---
 
 ## 🎯 CURRENT FOCUS
-
 ```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  TypeScript       ████████████████░░             │
-│  React            ███████████████░░░             │
-│  React Ecosystem  █████████████░░░░              │
-│  Backend          ████████░░░░░░░░              │
-│                                                  │
-└──────────────────────────────────────────────────┘
+┌─[ RAYENDP // PROGRESS ]───────────────┐
+│                                       │
+│  TS       ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%      │
+│  REACT    ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  75%      │
+│  ECO      ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱  65%      │
+│  BACKEND  ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱  40%      │
+│                                       │
+│  ◉ ONLINE // BUILDING // EVOLVING     │
+└───────────────────────────────────────┘
 ```
-
 Currently working on:
 
 * ⚛️ Building applications with React
@@ -115,8 +116,8 @@ A responsive task management application built to practice practical front-end d
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayendp&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayendp&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayendp&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayendp&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165">
 </p>
 
 ---
@@ -141,8 +142,8 @@ LinkedIn · Instagram · Portfolio · Facebook
 ╚══════════════════════════════════════════════╝
 ```
 
-### `RAYEN.DEV // KEEP BUILDING`
+### `RAYENDP // KEEP BUILDING`
 
-**⚡ Build. Learn. Level Up.**
+**⚡ Build. Learn. Level Up. Repeat. **
 
 </p>
