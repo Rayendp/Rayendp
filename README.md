@@ -2,6 +2,10 @@
   <img src="./Rayen-banner.png%202.png" alt="Rayendp Banner" width="100%">
 </p>
 
+<a href="./Rayen-CV.pdf">
+  <img src="./view-CV.png" alt="view-CV" width="120">
+</a>
+
 <pre>
 ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗
 ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝████╗  ██║
@@ -15,9 +19,7 @@
 
 **Front-End Developer → Full-Stack Developer**
 
-`[ ONLINE ]` `LEARNING` `BUILDING`
----
-[![VIEW CV](https://img.shields.io/badge/📄_VIEW_CV-00ffcc?style=for-the-badge&labelColor=111827)](./Rayen-CV.pdf.pdf)
+`[ ONLINE ]` `LEARNING` `BUILDING`;
 ---
 
 ## 👨‍💻 ABOUT ME
