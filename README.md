@@ -11,12 +11,13 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝
 </pre>
 
-### `⚡ DEVELOPER // CHAPTER 01`
+### `⚡ DEVELOPER //
 
 **Front-End Developer → Full-Stack Developer**
 
 `[ ONLINE ]` `LEARNING` `BUILDING`
-
+---
+[![VIEW CV](https://img.shields.io/badge/📄_VIEW_CV-00ffcc?style=for-the-badge&labelColor=111827)](./Rayen-CV.pdf.pdf)
 ---
 
 ## 👨‍💻 ABOUT ME
