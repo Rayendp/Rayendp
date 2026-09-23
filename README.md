@@ -6,6 +6,13 @@
   <img src="./view-CV.png" alt="view-CV" width="120">
 </a>
 
+<p align="center">
+  <a href="https://rayendp.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20VIEW%20PORTFOLIO-111820?style=for-the-badge&labelColor=080b10&color=26343b" />
+  </a>
+</p>
+
+
 <pre>
 ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗
 ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝████╗  ██║
