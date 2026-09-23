@@ -126,10 +126,11 @@ A responsive task management application built to practice practical front-end d
 ## 🌐 CONNECT
 
 **GitHub:** [@Rayendp](https://github.com/Rayendp)
-
-LinkedIn · Instagram · Portfolio · Facebook
+**LinkedIn:** [Rayen Du Plessis](https://www.linkedin.com/in/rayen-du-plessis-ba61ba267)
+**Portfolio:** [rayendp.github.io](https://rayendp.github.io/)
 
 ---
+
 
 <p align="center">
 
