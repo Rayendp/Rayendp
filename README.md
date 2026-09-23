@@ -2,7 +2,7 @@
   <img src="./Rayen-banner.png%202.png" alt="Rayendp Banner" width="100%">
 </p>
 
-<a href="./Rayen-CV.pdf">
+<a href="./Rayen-CV.pdf.pdf">
   <img src="./view-CV.png" alt="view-CV" width="120">
 </a>
 
